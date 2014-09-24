@@ -1,4 +1,4 @@
-Consume_WCF_Service_with_JSONP_and_SOAP_endpoint
+WCF_Endpoints
 ================================================
 
 First WCF repository
