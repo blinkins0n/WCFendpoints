@@ -1,0 +1,5 @@
+C:\Users\jtorrecillas\Downloads\Consume_WCF_Service_with_JSONP_and_SOAP_endpoint\Consume WCF Service with JSONP and SOAP endpoints\MyService\MyService\bin\MyService.dll
+C:\Users\jtorrecillas\Downloads\Consume_WCF_Service_with_JSONP_and_SOAP_endpoint\Consume WCF Service with JSONP and SOAP endpoints\MyService\MyService\bin\MyService.pdb
+C:\Users\jtorrecillas\Downloads\Consume_WCF_Service_with_JSONP_and_SOAP_endpoint\Consume WCF Service with JSONP and SOAP endpoints\MyService\MyService\obj\Debug\MyService.csprojResolveAssemblyReference.cache
+C:\Users\jtorrecillas\Downloads\Consume_WCF_Service_with_JSONP_and_SOAP_endpoint\Consume WCF Service with JSONP and SOAP endpoints\MyService\MyService\obj\Debug\MyService.dll
+C:\Users\jtorrecillas\Downloads\Consume_WCF_Service_with_JSONP_and_SOAP_endpoint\Consume WCF Service with JSONP and SOAP endpoints\MyService\MyService\obj\Debug\MyService.pdb
